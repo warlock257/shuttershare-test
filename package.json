@@ -1,0 +1,14 @@
+{
+  "name": "shuttershare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prob1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Courtemanche",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
